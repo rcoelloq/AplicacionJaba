@@ -1,2 +1,2 @@
 # AplicacionJaba
-Ejemplo basico de repositorio
+Ejemplo basico de repositorio en java
